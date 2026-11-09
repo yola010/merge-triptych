@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+merge_gui.log
+merge16x9_*/
+.venv/
+venv/
